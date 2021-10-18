@@ -1,9 +1,9 @@
 ***
-# HTML CSS Javascript-Scribed-Clone
+# HTML CSS Javascript Open Library
 
 ***
 # Live Link
-https://ashgole.github.io/HTML-CSS-Javascript-Scribed-Clone/
+https://ashgole.github.io/HTML-CSS-Javascript-Open-Library/
 
 ***
 # About
@@ -15,4 +15,4 @@ I have build SCRIBED Clone using HTML, CSS and Javascript. This website is fully
 ***
 # Screenshots
 
-![alt text](https://github.com/ashgole/HTML-CSS-Javascript-Scribed-Clone/blob/main/screenshots/1.png)
+![alt text](https://github.com/ashgole/HTML-CSS-Javascript-Open-Library/blob/main/screenshots/1.png)
